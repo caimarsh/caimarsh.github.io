@@ -231,6 +231,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
+    background-image: url(../images/background-old.png);
     height: auto;
     background-size: 100%;
     padding: 0px 0px 20px 0px;
@@ -336,7 +337,6 @@ button {
 
 .header_main {
     width: 100%;
-    background-image: url(../images/background-old.png);
     background-size: 100%;
     padding: 10px 0px 0px 0px;
 }
